@@ -1,4 +1,10 @@
-fetch("Todos/hlahla.json")
+// fetch("Todos/hlahla.json")
+//   .then((res) => {
+//     return res.json();
+//   })
+//   .then((res) => console.log(res));
+
+fetch("Todos/mgmg.json")
   .then((res) => {
     return res.json();
   })
